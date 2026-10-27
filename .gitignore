@@ -1,0 +1,9 @@
+# Real data stays on the machine it belongs to. The song plays on
+# data.anon.ts whenever data.ts is absent.
+data.ts
+*.local.ts
+inputs/
+frames/
+*.mp4
+*.mov
+.DS_Store
